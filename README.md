@@ -1,5 +1,5 @@
 # Personalized Recommendations with IBM
-![0703284532324-web-tete](https://github.com/AlJawharhALOtaibi/ArticleIntel/assets/87391133/82bb1809-43b5-4b08-9c74-84b08148e06e)
+![0703284532324-web-tete](https://github.com/AlJawharhALOtaibi/Personalized_Recommendations_with_IBM/assets/87391133/cef46617-9302-47df-96bf-be0eb94e8179)
 
 This project aims to analyze user interactions with articles on the IBM Watson Studio platform and provide recommendations to users based on their preferences. By leveraging various data analysis techniques and recommendation systems, we intend to offer personalized article suggestions to enhance user experience.
 
